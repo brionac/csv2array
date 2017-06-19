@@ -1,4 +1,5 @@
-Parse .csv To array. Surport GBK.
+Using in Node.js, parse csv file to array. Surport GBK.
+
 
 How to use:
 
