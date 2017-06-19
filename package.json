@@ -16,18 +16,6 @@
     "url":"https://github.com/brionac/csv2array.git"
   },
   "dependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-polyfill": "^6.23.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-3": "^6.24.1",
-    "babel-register": "^6.24.1",
-    "json2xlsx": "^0.1.6",
-    "legacy-encoding": "^3.0.0",
-    "mysql2": "^1.3.5",
-    "sequelize": "^4.1.0",
-    "xlsx-populate": "^1.7.0",
-    "xlsx2json": "^1.0.0"
+    "legacy-encoding": "^3.0.0"
   }
 }
