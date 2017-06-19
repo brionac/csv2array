@@ -2,7 +2,7 @@ Parse .csv To array. Surport GBK.
 
 How to use:
 
-npm install csv2array
+npm install csv2simplearray --save
 
 in .js file:
 
