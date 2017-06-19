@@ -9,5 +9,3 @@ in .js file:
 var c2a = require('csv2simplearray').default; 
 var ret = c2a('./1.csv', 'gbk'); 
 console.log(ret); 
-
-
