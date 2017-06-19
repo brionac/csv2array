@@ -1,5 +1,5 @@
 {
-  "name": "csv2array",
+  "name": "csv2simplearray",
   "version": "1.0.0",
   "description": "surport gbk",
   "main": "./lib/csv2array.js",
