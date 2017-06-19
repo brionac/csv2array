@@ -6,7 +6,10 @@ npm install csv2simplearray --save
 
 in .js file:
 
-var c2a = require('csv2simplearray').default;\<br>
-var ret = c2a('./1.csv', 'gbk'); \<br>
-console.log(ret); \<br>
+var c2a = require('csv2simplearray').default;
+
+var ret = c2a('./1.csv', 'gbk'); 
+
+console.log(ret); 
+
 
