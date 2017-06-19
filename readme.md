@@ -10,4 +10,3 @@ var c2a = require('csv2simplearray').default;\<br>
 var ret = c2a('./1.csv', 'gbk'); \<br>
 console.log(ret); \<br>
 
-
